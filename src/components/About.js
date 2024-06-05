@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 import _ from 'lodash';
 import Icon from 'react-native-vector-icons/EvilIcons';
 import CompanyItem from './CompanyItem';
-//stylesheets
+//difference in words
 const styles = StyleSheet.create({
     text: {
         //flexDirection: 'column',
